@@ -33,8 +33,8 @@ sudo dpkg -i spark-deepin-wine-seetong_1.0.4.4_all.deb
 [点击进入软件官网](http://www.tpsee.com/)
 
 ## 联系打包者
-请通过邮件联系
-postmaster@xiaoyu-team.icu
+请通过QQ联系
+2934301923
 有安装问题请在本项目中提起issues
 
 
